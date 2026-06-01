@@ -168,33 +168,6 @@ Created an interactive dashboard featuring:
 
 ✅ Interactive Filters
 
----
-
-# 📁 Repository Structure
-
-```
-coffee-shop-sales-analytics-dashboard
-│
-├── Data
-│ └── Coffee Shop Sales.csv
-│
-├── SQL
-│ └── MY SQL Queries.docx
-│
-├── Notebook
-│ └── Coffee Sale Analysis EDA.ipynb
-│
-├── Dashboard
-│ └── COFFE SALES DASHBOARD.pbix
-│
-├── Images
-│ └── Dashboard Screenshots
-│
-└── README.md
-```
-
----
-
 # 🚀 Business Impact
 
 This dashboard enables decision-makers to:
@@ -223,6 +196,6 @@ Vivek Kumar
 
 Data Analyst | Power BI Developer
 
-LinkedIn: [Add Your LinkedIn Link]
+LinkedIn: https://www.linkedin.com/in/vivek-kumar-3b95a523b/
 
-GitHub: [Add Your GitHub Link]
+GitHub: https://github.com/Vivek2292kumar
