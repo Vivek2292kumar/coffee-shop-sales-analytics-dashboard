@@ -3,6 +3,8 @@ End-to-End Coffee Shop Sales Analysis using SQL, Python, and Power BI with KPI T
 
 # ☕ Coffee Shop Sales Analytics Dashboard
 
+![Dashboard](https://github.com/Vivek2292kumar/coffee-shop-sales-analytics-dashboard/blob/main/COFFEE%20SHOP%20SALES%20DASHBOARD.png?raw=true)
+
 ## 📌 Project Overview
 
 This project delivers an end-to-end Business Intelligence solution for analyzing coffee shop sales performance using SQL, Python, and Power BI.
